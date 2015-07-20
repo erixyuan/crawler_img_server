@@ -20,18 +20,18 @@ message PngquantDetail {
 // webp的压缩参数
 message WebpDetail {
     optional string mode = 1;
-    optional string quality = 1;
-    optional string path = 2;
+    optional string quality = 2;
+    optional string path = 3;
 }
  
 // 压缩请求，压缩不同质量的图片
 message CompressRequest {
     optional string product = 1;
     optional string token = 2;
-    optional ImageMode mode = 1;
-    optional string url = 3;
-    optional bytes binary = 4;
-    repeated CompressDetail compressDetail = 5;
+    optional ImageMode mode = 3;
+    optional string url = 4;
+    optional bytes binary = 5;
+    repeated CompressDetail compressDetail = 6;
 }
  
 // 压缩图片集合，模式，模式对应的压缩技术参数
@@ -60,10 +60,10 @@ message ResizeImage {
 message ResizeRequest {
     optional string product = 1;
     optional string token = 2;
-    optional ImageMode mode = 1;
-    optional string url = 3;
-    optional bytes binary = 4;
-    repeated ResizeImage images = 5;
+    optional ImageMode mode = 3;
+    optional string url = 4;
+    optional bytes binary = 5;
+    repeated ResizeImage images = 6;
 }
  
 // 裁剪图片的返回数据
