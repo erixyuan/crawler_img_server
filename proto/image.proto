@@ -36,7 +36,7 @@ message CompressRequest {
  
 // 压缩图片集合，模式，模式对应的压缩技术参数
 message CompressDetail {   
-    option CompressMode mode = 1;c
+    option CompressMode mode = 1;
     repeated PngquantDetail pngquantDetail = 2;
     repeated WebpDetail webpDetail = 3;
 }
