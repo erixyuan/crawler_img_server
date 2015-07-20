@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/xz
+END
+xz.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/xz/xz.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/xz/Makefile
+END
+test_xz.c
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/xz/test_xz.c
+END
+xz.c
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/xz/xz.c
+END

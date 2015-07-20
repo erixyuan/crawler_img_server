@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/app/gensoft/security-client/!svn/ver/138800/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi
+END
+list.py
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/list.py
+END
+permissions.py
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/permissions.py
+END
+googleplay.proto
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/googleplay.proto
+END
+gp.proto
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/gensoft/security-client/!svn/ver/106870/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/gp.proto
+END
+categories.py
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/categories.py
+END
+googleplay.py.bak.shouyu
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/googleplay.py.bak.shouyu
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/TODO.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/__init__.py
+END
+apishell.py
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/apishell.py
+END
+googleplay.py
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/app/gensoft/security-client/!svn/ver/138800/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/googleplay.py
+END
+helpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/helpers.py
+END
+config.py.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/config.py.tpl
+END
+search.py
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/search.py
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/README.md
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/app/gensoft/security-client/!svn/ver/104319/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/config.py
+END
+googleplay_pb2.py
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/googleplay_pb2.py
+END
+download.py
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/gensoft/security-client/!svn/ver/75539/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/download.py
+END
+gp_pb2.py
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/app/gensoft/security-client/!svn/ver/106870/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/googleplayapi/gp_pb2.py
+END

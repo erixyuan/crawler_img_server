@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/Makefile
+END
+dalvik_elsign.py
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/dalvik_elsign.py
+END
+example_sign.py
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/example_sign.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/__init__.py
+END

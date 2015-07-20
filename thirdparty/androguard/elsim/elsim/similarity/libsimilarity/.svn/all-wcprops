@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity
+END
+similarity.c
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/similarity.c
+END
+similarity.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/similarity.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/Makefile
+END

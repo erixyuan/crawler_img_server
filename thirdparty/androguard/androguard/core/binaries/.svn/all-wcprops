@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/binaries
+END
+idapipe.py
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/binaries/idapipe.py
+END
+idawrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/binaries/idawrapper.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/binaries/__init__.py
+END
+elf.py
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/binaries/elf.py
+END

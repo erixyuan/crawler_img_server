@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/bytecodes
+END
+dvm_permissions.py
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/bytecodes/dvm_permissions.py
+END
+api_permissions.py
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/bytecodes/api_permissions.py
+END
+dvm.py
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/bytecodes/dvm.py
+END
+jvm_generate.py
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/bytecodes/jvm_generate.py
+END
+apk.py
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/bytecodes/apk.py
+END
+jvm.py
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/bytecodes/jvm.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/bytecodes/__init__.py
+END
+arm.py
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/core/bytecodes/arm.py
+END

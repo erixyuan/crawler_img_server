@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/app/gensoft/security-client/!svn/ver/106904/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/gp_proto_parser
+END
+parse_code.py
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/app/gensoft/security-client/!svn/ver/106653/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/gp_proto_parser/parse_code.py
+END
+apk_rev.py
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/gp_proto_parser/apk_rev.py
+END
+print_apk_src.py
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/app/gensoft/security-client/!svn/ver/106904/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/gp_proto_parser/print_apk_src.py
+END
+rev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/gensoft/security-client/!svn/ver/105828/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/gp_proto_parser/rev.sh
+END

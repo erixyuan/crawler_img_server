@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/snappy
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/snappy/Makefile
+END
+snappy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/snappy/snappy.cc
+END
+snappy.h
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/snappy/snappy.h
+END
+test_snappy.c
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/snappy/test_snappy.c
+END

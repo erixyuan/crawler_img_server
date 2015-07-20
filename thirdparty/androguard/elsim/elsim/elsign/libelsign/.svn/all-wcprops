@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/__init__.py
+END
+ac_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/ac_types.h
+END
+ac_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/ac_list.c
+END
+ac_heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/ac_heap.c
+END
+WuManber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/WuManber.cpp
+END
+cluster.c
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/cluster.c
+END
+ac_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/ac_list.h
+END
+elsign.cc
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/elsign.cc
+END
+aho_corasick.c
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/aho_corasick.c
+END
+ac_heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/ac_heap.h
+END
+WuManber.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/WuManber.h
+END
+elsign.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/elsign.h
+END
+cluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/cluster.h
+END
+aho_corasick.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/aho_corasick.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/elsign/libelsign/Makefile
+END

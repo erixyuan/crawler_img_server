@@ -1,0 +1,15 @@
+[basic]
+EMAIL            = baiduisdata@gmail.com
+PASSWORD         = test123321
+ANDROID_ID       = 3016b11f59e98f9b
+DEVICE_COUNTRY   = us
+OPERATOR_COUNTRY = us
+SDK              = 16
+DEVICE           = GT-I9300
+HARDWARE         = m0
+PRODUCT          = m0xx
+LANG             = en
+PROXIES          = 192.169.249.166:17991
+
+
+

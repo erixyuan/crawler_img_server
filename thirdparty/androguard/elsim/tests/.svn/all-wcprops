@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/tests
+END
+androappindb.py
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/tests/androappindb.py
+END
+test_similarity.py
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/tests/test_similarity.py
+END
+example_text_sim.py
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/tests/example_text_sim.py
+END
+androapptodb.py
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/tests/androapptodb.py
+END

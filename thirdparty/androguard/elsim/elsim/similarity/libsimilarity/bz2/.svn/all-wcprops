@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/bz2
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/bz2/Makefile
+END
+test_bz2.c
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/bz2/test_bz2.c
+END
+bz2.c
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/bz2/bz2.c
+END
+bz2.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/bz2/bz2.h
+END

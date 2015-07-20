@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/Makefile
+END
+rwpng.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/rwpng.c
+END
+pngquant.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/pngquant.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/configure
+END
+rwpng.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/rwpng.h
+END
+pngquant.spec
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/pngquant.spec
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/CHANGELOG
+END
+rwpng_cocoa.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/rwpng_cocoa.m
+END
+pngquant.1
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/pngquant.1
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/README.md
+END
+pngquant
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/pngquant
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/.gitignore
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/INSTALL
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/gensoft/security-client/!svn/ver/87556/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/pngquant-master/COPYRIGHT
+END

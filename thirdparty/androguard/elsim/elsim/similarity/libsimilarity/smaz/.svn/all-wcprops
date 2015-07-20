@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/smaz
+END
+smaz.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/smaz/smaz.h
+END
+test_smaz.c
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/smaz/test_smaz.c
+END
+smaz.c
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/smaz/smaz.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/libsimilarity/smaz/Makefile
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/tests
+END
+test_arsc.py
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/tests/test_arsc.py
+END
+test_analysis_offset.py
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/tests/test_analysis_offset.py
+END
+test_ins.py
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/tests/test_ins.py
+END
+test_dex.py
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/tests/test_dex.py
+END
+test_sign.py
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/tests/test_sign.py
+END
+test_axml.py
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/tests/test_axml.py
+END
+test_types.py
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/tests/test_types.py
+END

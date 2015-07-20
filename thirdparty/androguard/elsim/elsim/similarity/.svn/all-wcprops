@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity
+END
+hashtype.py
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/hashtype.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/Makefile
+END
+similarity.py
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/similarity.py
+END
+simhash.py
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/simhash.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/elsim/elsim/similarity/__init__.py
+END

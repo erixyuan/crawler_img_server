@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/patch
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/patch/__init__.py
+END
+zipfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/app/gensoft/security-client/!svn/ver/105651/trunk/server/phoneapp_tags/deploy/trunk/app_crawler/plt/crawler/thirdparty/androguard/androguard/patch/zipfile.py
+END
