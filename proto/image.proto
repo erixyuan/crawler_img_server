@@ -1,0 +1,72 @@
+// 传输的图片方式，0=>url方式，1=>二进制方式
+enum ImageMode {
+    URL = 0;
+    BINARY = 1;
+}
+ 
+ 
+// 压缩技术的选择, 0=>pngquant, 1=>webp
+enum CompressMode {
+    PNGQUANT = 0;
+    WEBP = 1;
+}
+ 
+// pngquant的压缩参数
+message PngquantDetail {
+    string quality = 1;
+    string filename = 2;
+}
+ 
+// webp的压缩参数
+message WebpDetail {
+    string mode = 1
+    string quality = 1;
+    string path = 2;
+}
+ 
+// 压缩请求，压缩不同质量的图片
+message CompressRequest {
+    optional string product = 1;
+    optional string token = 2;
+    optional ImageMode mode = 1;
+    optional string url = 3;
+    optional bytes binary = 4;
+    repeated CompressDetail compressDetail = 5;
+}
+ 
+// 压缩图片集合，模式，模式对应的压缩技术参数
+message CompressDetail {   
+    option CompressMode mode = 1;
+    repeated PngquantDetail pngquantDetail = 2;
+    repeated WebpDetail webpDetail = 3;
+}
+ 
+// 压缩返回
+message CompressResponse {
+    repeated CompressDetail compressDetail = 1;
+}
+ 
+// 裁剪图片参数，支持裁剪后图片压缩
+message ResizeImage {
+    optional int32 width = 1;
+    optional int32 height =2;
+    optional string path = 3;
+    repeated CompressDetail compressDetail = 4;
+}
+ 
+ 
+// 多张图片resize
+// 多张图片resize and compress
+message ResizeRequest {
+    optional string product = 1;
+    optional string token = 2;
+    optional ImageMode mode = 1;
+    optional string url = 3;
+    optional bytes binary = 4;
+    repeated ResizeImage images = 5;
+}
+ 
+// 裁剪图片的返回数据
+message ResizeResponse {
+    repeated ResizeImage images = 1;
+}
