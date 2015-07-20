@@ -8,12 +8,14 @@ import urllib
 import hashlib  
 import os
 #图片解析模块
-from img_resize import ImageResize
+from img_process import ImageResize
 
 from flask import Flask
 from flask import request
 app = Flask(__name__)
 homedir = os.getcwd()
+
+image_resize = ImageResize()
 
 @app.route('/')
 def hello_world():
@@ -22,7 +24,8 @@ def hello_world():
 
 def resize_compress_image(src_image, resolution, pngquant_quality, webp_quality, 
         pngquant_dest_image=None, webp_dest_image=None):
-    """ resize图片并且进行压缩
+    """ 
+        resize图片并且进行压缩
         Args: 
             src_image: 原图本地地址
             resolution: resize尺寸, (width, height)
@@ -128,6 +131,35 @@ def imageResize():
 
     #3 上云平台
     
+
+@app.route('/api/image/resize'):
+    '''
+    message ResizeRequest {
+        optional string product = 1;
+        optional string token = 2;
+        optional ImageMode mode = 3;
+        optional string url = 4;
+        optional bytes binary = 5;
+        repeated ResizeImage images = 6;
+    }
+    '''
+    product = 'mobomarket'
+    token = 'token'
+    mode = 0
+    url = 'https://lh4.ggpht.com/UAL7o_8LQ9n7d3pFh9q-JYd1bUtC9K7u_LkAjvq64KU-Ik3f2l4x-zhYRksGOEsNWzA=h310-rw'
+    images = [{
+        width: 100,
+        height:100,
+    }]
+
+    # 如果是二进制，先保存到一个临时目录下,再处理
+    
+    imagName = hashlib.md5(url)
+    image_tmp_path = image_resize.download_img(url, imagName)
+    for item in images:
+        resize_path = image_resize.resize_image(image_tmp_path, item['width'], item['height'] ,imagName, product)
+        
+
 
 if __name__ == '__main__':
     app.debug = True
