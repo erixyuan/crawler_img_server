@@ -13,15 +13,15 @@ enum CompressMode {
  
 // pngquant的压缩参数
 message PngquantDetail {
-    string quality = 1;
-    string filename = 2;
+    optional string quality = 1;
+    optional string filename = 2;
 }
  
 // webp的压缩参数
 message WebpDetail {
-    string mode = 1
-    string quality = 1;
-    string path = 2;
+    optional string mode = 1;
+    optional string quality = 1;
+    optional string path = 2;
 }
  
 // 压缩请求，压缩不同质量的图片
@@ -36,7 +36,7 @@ message CompressRequest {
  
 // 压缩图片集合，模式，模式对应的压缩技术参数
 message CompressDetail {   
-    option CompressMode mode = 1;
+    option CompressMode mode = 1;c
     repeated PngquantDetail pngquantDetail = 2;
     repeated WebpDetail webpDetail = 3;
 }
